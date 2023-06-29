@@ -4,7 +4,7 @@
 ## 🔭 About myself
  - Future Computer Engineer (I'm in my final year)
  - Worked as a Front-end Web Developer but currently searching another path 
- - Took Cisco ans AWS courses
+ - Took Cisco and AWS courses
  - [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/camila-careggio-36500214a/)
 
 ## 🌱 I’m currently learning 

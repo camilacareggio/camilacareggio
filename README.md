@@ -15,6 +15,7 @@
 ## My stack
 
   <code><img width="60" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
+  <code><img height="30" src="https://cdn-icons-png.flaticon.com/512/7506/7506880.png"></code>
   <code><img height="30" src="https://github.com/rahul-jha98/README_icons/blob/main/language_and_tools/square/aws/aws.png"></code>
   <code><img width="30" src="https://github.com/abrahamcalf/programming-languages-logos/blob/e1be48ad2dffe3e6e0e24fdefa9e740167fb2315/src/cpp/cpp.png"></code>
   <code><img width="60" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
